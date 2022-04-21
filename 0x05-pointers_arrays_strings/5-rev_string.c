@@ -4,7 +4,7 @@
  * @s: pointer to the string to print
  * Return: void
  */
-void rev-string(char *s)
+void rev_string(char *s)
 {
 	int len, i, half;
 	char temp;
