@@ -2,11 +2,11 @@
 /**
  * _strncpy - copie a string
  * @dest:chr
- * @src:char
+ *  @src:char
  * @n:int
  * Return:char
  */
-char *_strncpy(char *dest, char 8src, int n)
+char *_strncpy(char *dest, char *src, int n)
 {
 int i;
 
