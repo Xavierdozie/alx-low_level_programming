@@ -16,11 +16,10 @@ char *leet(char *n)
 		for (j = 0; j < 10; j++)
 		{
 			if (n[i] == x1[j])
-				{
-					n[i] = x2[j];
-				}
+			{
+				n[i] = x2[j];
+			}
 		}
 	}
-
 	return (n);
 }
