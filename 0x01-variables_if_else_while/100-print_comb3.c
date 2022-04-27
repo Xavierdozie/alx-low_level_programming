@@ -24,7 +24,7 @@ int main(void)
 					break;
 				}
 				putchar(',');
-				putchar('\n');
+				putchar(' ');
 			}
 			c++;
 		}
